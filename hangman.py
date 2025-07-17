@@ -58,7 +58,6 @@ word_list=('ant baboon badger bat bear beaver camel cat clam cobra cougar '
          'stork swan tiger toad trout turkey turtle weasel whale wolf '
          'wombat zebra ').split()
 word=random.choice(word_list)
-print(word)
 lives=6
 
 placeholder=""
