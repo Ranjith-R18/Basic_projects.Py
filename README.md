@@ -1,2 +1,1 @@
-# Hangman.py
-Hangman game
+
